@@ -1,0 +1,14 @@
+﻿body {
+}
+
+
+.navbar-default {
+    background-color: cornflowerblue;
+    background-image: url("Images/PageHeaderBG.png");
+    background-repeat: repeat;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    background-color: #FFFF00;
+    color: #00547f;
+}
